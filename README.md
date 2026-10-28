@@ -2,6 +2,8 @@
 
 A Build 42.21 add-on. Wild Kentucky birds visit the vanilla bird bath. It needs no other mod.
 
+*No human has ever opened this folder. Good luck!*
+
 Source: https://github.com/fbserg/backyard-birds (MIT). Workshop: [3828619587](https://steamcommunity.com/sharedfiles/filedetails/?id=3828619587). The native test harness lives in `fbserg/etc` under `mods/backyard-birds`.
 
 ## Gameplay
@@ -51,9 +53,10 @@ The server picks visits and changes stats. It syncs boredom and unhappiness with
 ## Workshop assets
 
 - `workshop/workshop.txt` holds the listing copy and the item ID. Keep the `id=` line. Without it, publish creates a second item.
-- `workshop/screenshots/` holds the native captures from `birds-photos`. Gallery order: close, yard, halo.
+- `workshop/screenshots/` holds the native captures from `birds-photos`.
+- `workshop/art/dawn-chorus.jpg` leads the gallery. Its prompt is `workshop/art/dawn-chorus.prompt.md`. Gallery order: promo, close, yard, halo.
 - Publish with `tools/pz-workshop/pz-workshop publish mods/backyard-birds` from `fbserg/etc`. Gallery images have no uploader API. Set them on the Steam item page.
-- `workshop/preview.png` is a 512 × 512 crop of `birds-close.jpg`, upscaled from 240 × 240.
+- `workshop/preview.png` is the 512 × 512 primary thumbnail from `workshop/art/birds-avatar.png`, drawn from `workshop/art/birds-avatar.prompt.md`.
 
 ## Limits
 

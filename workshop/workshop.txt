@@ -32,6 +32,8 @@ description=
 description=[h2]Credits[/h2]
 description=Project Zomboid supplies the bird bath, the birdsong and the multiplayer sync. The bird sprites are original pixel art.
 description=
+description=[i]No human has ever opened this mod's folder. Good luck![/i]
+description=
 description=[url=https://github.com/fbserg/backyard-birds]Source code & bug reports on GitHub[/url] · MIT license.
 tags=Build 42;Misc;Realistic
 visibility=public
