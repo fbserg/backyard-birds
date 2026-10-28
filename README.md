@@ -2,7 +2,7 @@
 
 A Build 42.21 add-on. Wild Kentucky birds visit the vanilla bird bath. It needs no other mod.
 
-Source: https://github.com/fbserg/backyard-birds (MIT). The native test harness lives in `fbserg/etc` under `mods/backyard-birds`.
+Source: https://github.com/fbserg/backyard-birds (MIT). Workshop: [3828619587](https://steamcommunity.com/sharedfiles/filedetails/?id=3828619587). The native test harness lives in `fbserg/etc` under `mods/backyard-birds`.
 
 ## Gameplay
 
