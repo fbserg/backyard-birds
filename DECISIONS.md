@@ -36,5 +36,5 @@ It launches as a UI-element app with all volumes at 0, so it takes no focus and 
 ## Third mod, still one repo per mod
 
 Truck Repaint's decision said to reopen the one-repo-per-mod rule at a third mod. This mod shares no runtime code with the other two
-and has no dependencies. Its harness reuses `farm-trailer/tests/FarmEngineMain.java` and `FarmPhotoMain.java` by path. The standalone
-repo is not created yet. Reopen when it is published, and consider one `pz-mods` repo then.
+and has no dependencies, so it got its own repo, `fbserg/backyard-birds`, like the others. Its native harness stays in `fbserg/etc` and
+reuses `farm-trailer/tests/FarmEngineMain.java` and `FarmPhotoMain.java` by path. Reopen at a fourth mod, or when mods start sharing Lua.
